@@ -1,0 +1,13 @@
+supplier_id,supplier_name,location,material
+SUP-01,Malwa Cotton Traders,Punjab,Raw Cotton
+SUP-02,Haryana Ginning Co,Haryana,Raw Cotton
+SUP-03,Saurashtra Fibres,Gujarat,Raw Cotton
+SUP-04,Vidarbha Agro Cotton,Maharashtra,Raw Cotton
+SUP-05,Deccan Lint Suppliers,Telangana,Raw Cotton
+SUP-06,Nile Delta Imports,Egypt (Import),Raw Cotton
+SUP-07,Pacific Cotton Exports,Australia (Import),Raw Cotton
+SUP-08,Vapi ColorChem,Gujarat,Dyes & Chemicals
+SUP-09,Ankleshwar Dyestuffs,Gujarat,Dyes & Chemicals
+SUP-10,Hyderabad Specialty Chem,Telangana,Dyes & Chemicals
+SUP-11,Ludhiana Carton Works,Punjab,Packaging
+SUP-12,Baddi Poly Pack,Himachal Pradesh,Packaging
